@@ -1,0 +1,357 @@
+[
+  {
+    "userMessage": "im stressed",
+    "botReply": "It's normal to feel stressed during studies. Take breaks and stay positive. You can do this!",
+    "time": "17/03/2026, 15:24:10"
+  },
+  {
+    "userMessage": "exam",
+    "botReply": "Exam registration usually opens around week 10. Please check the university portal.",
+    "time": "17/03/2026, 15:24:13"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "20/03/2026, 11:32:30"
+  },
+  {
+    "userMessage": "viva schedule",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "20/03/2026, 11:33:12"
+  },
+  {
+    "userMessage": "viva",
+    "botReply": "Viva schedules are in sdgp main doc",
+    "time": "20/03/2026, 11:48:07"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "20/03/2026, 11:58:34"
+  },
+  {
+    "userMessage": "fyp viva",
+    "botReply": "Viva schedules are in sdgp main doc",
+    "time": "20/03/2026, 12:54:41"
+  },
+  {
+    "userMessage": "when is fyp viva conducting",
+    "botReply": "Viva schedules are in sdgp main doc",
+    "time": "20/03/2026, 12:54:53"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "21/03/2026, 18:42:58"
+  },
+  {
+    "userMessage": "how is weather today",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "21/03/2026, 18:43:10"
+  },
+  {
+    "userMessage": "exam date",
+    "botReply": "Exam registration usually opens around week 10. Please check the university portal.",
+    "time": "21/03/2026, 18:44:25"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "21/03/2026, 19:55:12"
+  },
+  {
+    "userMessage": "viva schedule",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "21/03/2026, 19:55:22"
+  },
+  {
+    "userMessage": "enuri",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "21/03/2026, 21:09:55"
+  },
+  {
+    "userMessage": "enuri ko",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "21/03/2026, 21:10:12"
+  },
+  {
+    "userMessage": "enuri",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "21/03/2026, 21:10:43"
+  },
+  {
+    "userMessage": "WHERE IS IS ENURI",
+    "botReply": "Sorry, I couldn't understand your question. Please try asking differently.",
+    "time": "21/03/2026, 21:10:52"
+  },
+  {
+    "userMessage": "sdgp schedule",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "21/03/2026, 21:10:59"
+  },
+  {
+    "userMessage": "ipd thesis",
+    "botReply": "I'm not sure about that. Try asking about exams, registration, or assignments.",
+    "time": "21/03/2026, 21:20:46"
+  },
+  {
+    "userMessage": "moda enuri",
+    "botReply": "mama modai",
+    "time": "21/03/2026, 21:23:17"
+  },
+  {
+    "userMessage": "when is theasis",
+    "botReply": "IPD theasis must be upload into the BB.",
+    "time": "21/03/2026, 21:46:52"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "21/03/2026, 21:47:02"
+  },
+  {
+    "userMessage": "im stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "21/03/2026, 22:40:08"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "21/03/2026, 22:40:21"
+  },
+  {
+    "userMessage": "tired",
+    "botReply": "It's normal to feel stressed during studies. Take breaks and stay positive. You can do this!",
+    "time": "21/03/2026, 22:40:27"
+  },
+  {
+    "userMessage": "im stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "21/03/2026, 22:40:35"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "21/03/2026, 22:52:26"
+  },
+  {
+    "userMessage": "hiu",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "21/03/2026, 23:00:28"
+  },
+  {
+    "userMessage": "im stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "21/03/2026, 23:00:37"
+  },
+  {
+    "userMessage": "viav schedule",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "21/03/2026, 23:00:48"
+  },
+  {
+    "userMessage": "where is viva schedule",
+    "botReply": "Viva schedules are in sdgp main doc",
+    "time": "21/03/2026, 23:01:20"
+  },
+  {
+    "userMessage": "im tired",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "21/03/2026, 23:01:41"
+  },
+  {
+    "userMessage": "hello",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 01:45:49"
+  },
+  {
+    "userMessage": "im bit stressed about time tables",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 01:46:00"
+  },
+  {
+    "userMessage": "im stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 01:46:08"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 01:46:50"
+  },
+  {
+    "userMessage": "im little bit stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 01:46:57"
+  },
+  {
+    "userMessage": "im stressed about the tim table",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 01:51:04"
+  },
+  {
+    "userMessage": "im stressed about my viva schedule",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 01:51:24"
+  },
+  {
+    "userMessage": "viva schedule",
+    "botReply": "Viva schedules are in sdgp main doc",
+    "time": "22/03/2026, 01:51:33"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 01:56:09"
+  },
+  {
+    "userMessage": "hello",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 01:56:14"
+  },
+  {
+    "userMessage": "im stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 01:56:21"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 02:01:09"
+  },
+  {
+    "userMessage": "im little bit stressed today when is viva gonna conduct",
+    "botReply": "Exam registration usually opens around week 10. Please check the university portal.",
+    "time": "22/03/2026, 02:01:28"
+  },
+  {
+    "userMessage": "im  little bit stressed today",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:01:42"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 02:02:02"
+  },
+  {
+    "userMessage": "im stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:02:08"
+  },
+  {
+    "userMessage": "hey",
+    "botReply": "I'm not sure about that. Try asking about exams, registration, or assignments.",
+    "time": "22/03/2026, 02:06:29"
+  },
+  {
+    "userMessage": "hallo",
+    "botReply": "I'm not sure about that. Try asking about exams, registration, or assignments.",
+    "time": "22/03/2026, 02:06:33"
+  },
+  {
+    "userMessage": "hello",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 02:06:36"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 02:06:39"
+  },
+  {
+    "userMessage": "im stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:06:44"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 02:08:55"
+  },
+  {
+    "userMessage": "im little stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:09:02"
+  },
+  {
+    "userMessage": "im stressed about my viva schedule",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:09:20"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 02:15:06"
+  },
+  {
+    "userMessage": "i feel stressed today",
+    "botReply": "Assignment deadlines are available on Moodle under your module page.",
+    "time": "22/03/2026, 02:15:13"
+  },
+  {
+    "userMessage": "im tired",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:15:23"
+  },
+  {
+    "userMessage": "viva schedule",
+    "botReply": "Viva schedules are in sdgp main doc",
+    "time": "22/03/2026, 02:15:29"
+  },
+  {
+    "userMessage": "ipd theasis",
+    "botReply": "IPD theasis must be upload into the BB.",
+    "time": "22/03/2026, 02:15:36"
+  },
+  {
+    "userMessage": "time table",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:19:49"
+  },
+  {
+    "userMessage": "im stressed about my fyp project",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:20:00"
+  },
+  {
+    "userMessage": "im tired",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:20:17"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 02:25:03"
+  },
+  {
+    "userMessage": "im little bit stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:25:09"
+  },
+  {
+    "userMessage": "hi",
+    "botReply": "Hello! How can I assist you today?",
+    "time": "22/03/2026, 02:29:39"
+  },
+  {
+    "userMessage": "im stressed",
+    "botReply": "You can access your timetable through the university LMS or student portal.",
+    "time": "22/03/2026, 02:29:41"
+  },
+  {
+    "userMessage": "when is viva btw",
+    "botReply": "Viva schedules are in sdgp main doc",
+    "time": "23/03/2026, 01:14:56"
+  },
+  {
+    "userMessage": "ipd theasis",
+    "botReply": "IPD theasis must be upload into the BB.",
+    "time": "23/03/2026, 01:15:44"
+  },
+  {
+    "userMessage": "ip theasis",
+    "botReply": "IPD theasis must be upload into the BB.",
+    "time": "23/03/2026, 02:29:38"
+  }
+]

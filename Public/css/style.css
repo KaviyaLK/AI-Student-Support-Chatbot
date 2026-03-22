@@ -1,0 +1,119 @@
+body {
+    font-family: Arial;
+    background: #f4f6f8;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container */
+.chat-container {
+    width: 100%;
+    max-width: 500px;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    background: white;
+}
+
+/* Header */
+.chat-header {
+    background: linear-gradient(135deg, #c00505, #d40e0e);
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Chat area */
+.chatbox {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+}
+
+/* Messages */
+.message {
+    margin: 8px 0;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 75%;
+    word-wrap: break-word;
+}
+
+.user {
+    background:linear-gradient(135deg, #c00505, #d40e0e);
+    color: white;
+    margin-left: auto;
+}
+
+.bot {
+    background: #e9ecef;
+}
+
+/* Input area */
+.input-area {
+    display: flex;
+    border-top: 1px solid #ccc;
+}
+
+.input-area input {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    font-size: 16px;
+}
+
+.input-area button {
+    padding: 12px 16px;
+    background: linear-gradient(135deg, #c00505, #d40e0e);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.message.bot {
+    background: #eee;
+}
+
+.message.user {
+    background: #d63031;
+    color: white;
+}
+
+.message.bot:contains("Typing...") {
+    font-style: italic;
+    opacity: 0.7;
+}
+
+/* 📱 Mobile adjustments */
+@media (max-width: 600px) {
+
+    .chat-container {
+        height: 100vh;
+        border-radius: 0;
+    }
+
+    .chat-header {
+        font-size: 16px;
+        padding: 12px;
+    }
+
+    .message {
+        font-size: 14px;
+        max-width: 85%;
+    }
+
+    .input-area input {
+        font-size: 14px;
+    }
+
+    .input-area button {
+        padding: 10px;
+    }
+}
+.typing {
+    font-style: italic;
+    opacity: 0.6;
+}

@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Admin Panel</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/admin.css" />
+  </head>
+  <body>
+    <script>
+      if (!localStorage.getItem("admin")) {
+        alert("Please login first!");
+        window.location.href = "login.html";
+      }
+    </script>
+    <div class="container">
+      <div class="header">
+        AI Student Support - Admin Panel - Manage FAQs
+        <button class="logout-btn" onclick="logout()">Logout</button>
+      </div>
+
+      <!-- Add FAQ -->
+      <div class="card">
+        <h3>Add New FAQ</h3>
+
+        <label>Keywords</label>
+        <input
+          type="text"
+          id="keywords"
+          placeholder="Enter keywords (comma separated)"
+        />
+
+        <label>Answer</label>
+        <textarea id="answer" placeholder="Enter answer"></textarea>
+
+        <button onclick="addFAQ()">Add FAQ</button>
+      </div>
+
+      <!-- FAQ List -->
+      <h3 class="section-title">All Existing FAQs</h3>
+
+      <!-- Search FAQs -->
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search FAQs..."
+        onkeyup="searchFAQ()"
+        class="search-box"
+      />
+      <div id="faqList" class="faq-grid"></div>
+    </div>
+
+    <div id="editModal" class="modal">
+      <div class="modal-content">
+        <div class="modal-inner">
+          <h3>Edit FAQ</h3>
+
+          <input type="text" id="editKeywords" placeholder="Keywords" />
+          <textarea id="editAnswer" placeholder="Answer"></textarea>
+
+          <div class="modal-actions">
+            <button onclick="updateFAQ()">Save</button>
+            <button onclick="closeModal()">Cancel</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="js/admin.js"></script>
+    <script>
+      function logout() {
+        localStorage.removeItem("admin");
+        window.location.href = "login.html";
+      }
+    </script>
+  </body>
+</html>
